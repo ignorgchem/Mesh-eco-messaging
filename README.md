@@ -6,7 +6,7 @@
 
 **License**
 
-The source code in this repository is licensed under the **MIT License**.
+The source code "k_eff.ipynb" in this repository is licensed under the **MIT License**.
 
 The article, documentation, and other non-code materials are licensed under **CC BY 4.0 (Creative Commons Attribution 4.0 International)**.
 
