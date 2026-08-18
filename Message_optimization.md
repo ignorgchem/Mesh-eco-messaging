@@ -1,13 +1,3 @@
----
-date_created: 2026-08-18 00:09
-aliases:
-tags:
-  - Радиотехника
-  - Алфавит
-Full name:
-Phone number:
-Email:
----
 
 # Введение
 
