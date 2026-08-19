@@ -21,7 +21,7 @@
 Для количественного описания изменения размера сообщения введём *коэффициент сжатия:*
 
 $$
-k = 1-\frac{\text{Вес в новом формате}}{\text{Исходный вес}} = \frac{\sum\limits_{i=\text{1}}^{\text{33}} b_{i}^{\prime}}{\sum\limits_{i=\text{1}}^{\text{33}} b_{i}}
+k = 1-\frac{\text{Вес в новом формате}}{\text{Исходный вес}} =1- \frac{\sum\limits_{i=\text{1}}^{\text{33}} b_{i}^{\prime}}{\sum\limits_{i=\text{1}}^{\text{33}} b_{i}}
 $$
 
 
